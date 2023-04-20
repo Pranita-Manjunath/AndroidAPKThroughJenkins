@@ -1,0 +1,1 @@
+env.ANDROID_HOME="/Users/zmo-mac-akashh-01/Library/Android/sdk"
